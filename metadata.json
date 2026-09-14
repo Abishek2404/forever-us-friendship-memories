@@ -1,0 +1,6 @@
+{
+  "name": "FOREVER US ∞",
+  "description": "Different People. Same Vibes. One Unforgettable Chapter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
